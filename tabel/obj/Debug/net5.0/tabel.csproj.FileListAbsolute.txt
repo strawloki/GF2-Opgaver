@@ -1,0 +1,16 @@
+/home/strawloki/Desktop/VM/programmering/opgaver/tabel/bin/Debug/net5.0/tabel
+/home/strawloki/Desktop/VM/programmering/opgaver/tabel/bin/Debug/net5.0/tabel.deps.json
+/home/strawloki/Desktop/VM/programmering/opgaver/tabel/bin/Debug/net5.0/tabel.runtimeconfig.json
+/home/strawloki/Desktop/VM/programmering/opgaver/tabel/bin/Debug/net5.0/tabel.runtimeconfig.dev.json
+/home/strawloki/Desktop/VM/programmering/opgaver/tabel/bin/Debug/net5.0/tabel.dll
+/home/strawloki/Desktop/VM/programmering/opgaver/tabel/bin/Debug/net5.0/ref/tabel.dll
+/home/strawloki/Desktop/VM/programmering/opgaver/tabel/bin/Debug/net5.0/tabel.pdb
+/home/strawloki/Desktop/VM/programmering/opgaver/tabel/obj/Debug/net5.0/tabel.csproj.AssemblyReference.cache
+/home/strawloki/Desktop/VM/programmering/opgaver/tabel/obj/Debug/net5.0/tabel.GeneratedMSBuildEditorConfig.editorconfig
+/home/strawloki/Desktop/VM/programmering/opgaver/tabel/obj/Debug/net5.0/tabel.AssemblyInfoInputs.cache
+/home/strawloki/Desktop/VM/programmering/opgaver/tabel/obj/Debug/net5.0/tabel.AssemblyInfo.cs
+/home/strawloki/Desktop/VM/programmering/opgaver/tabel/obj/Debug/net5.0/tabel.csproj.CoreCompileInputs.cache
+/home/strawloki/Desktop/VM/programmering/opgaver/tabel/obj/Debug/net5.0/tabel.dll
+/home/strawloki/Desktop/VM/programmering/opgaver/tabel/obj/Debug/net5.0/ref/tabel.dll
+/home/strawloki/Desktop/VM/programmering/opgaver/tabel/obj/Debug/net5.0/tabel.pdb
+/home/strawloki/Desktop/VM/programmering/opgaver/tabel/obj/Debug/net5.0/tabel.genruntimeconfig.cache

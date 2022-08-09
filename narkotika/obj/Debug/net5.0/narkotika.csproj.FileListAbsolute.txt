@@ -1,0 +1,16 @@
+/home/strawloki/Desktop/VM/programmering/opgaver/narkotika/bin/Debug/net5.0/narkotika
+/home/strawloki/Desktop/VM/programmering/opgaver/narkotika/bin/Debug/net5.0/narkotika.deps.json
+/home/strawloki/Desktop/VM/programmering/opgaver/narkotika/bin/Debug/net5.0/narkotika.runtimeconfig.json
+/home/strawloki/Desktop/VM/programmering/opgaver/narkotika/bin/Debug/net5.0/narkotika.runtimeconfig.dev.json
+/home/strawloki/Desktop/VM/programmering/opgaver/narkotika/bin/Debug/net5.0/narkotika.dll
+/home/strawloki/Desktop/VM/programmering/opgaver/narkotika/bin/Debug/net5.0/ref/narkotika.dll
+/home/strawloki/Desktop/VM/programmering/opgaver/narkotika/bin/Debug/net5.0/narkotika.pdb
+/home/strawloki/Desktop/VM/programmering/opgaver/narkotika/obj/Debug/net5.0/narkotika.csproj.AssemblyReference.cache
+/home/strawloki/Desktop/VM/programmering/opgaver/narkotika/obj/Debug/net5.0/narkotika.GeneratedMSBuildEditorConfig.editorconfig
+/home/strawloki/Desktop/VM/programmering/opgaver/narkotika/obj/Debug/net5.0/narkotika.AssemblyInfoInputs.cache
+/home/strawloki/Desktop/VM/programmering/opgaver/narkotika/obj/Debug/net5.0/narkotika.AssemblyInfo.cs
+/home/strawloki/Desktop/VM/programmering/opgaver/narkotika/obj/Debug/net5.0/narkotika.csproj.CoreCompileInputs.cache
+/home/strawloki/Desktop/VM/programmering/opgaver/narkotika/obj/Debug/net5.0/narkotika.dll
+/home/strawloki/Desktop/VM/programmering/opgaver/narkotika/obj/Debug/net5.0/ref/narkotika.dll
+/home/strawloki/Desktop/VM/programmering/opgaver/narkotika/obj/Debug/net5.0/narkotika.pdb
+/home/strawloki/Desktop/VM/programmering/opgaver/narkotika/obj/Debug/net5.0/narkotika.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/strawloki/Desktop/VM/programmering/opgaver/arrays/bin/Debug/net5.0/arrays
+/home/strawloki/Desktop/VM/programmering/opgaver/arrays/bin/Debug/net5.0/arrays.deps.json
+/home/strawloki/Desktop/VM/programmering/opgaver/arrays/bin/Debug/net5.0/arrays.runtimeconfig.json
+/home/strawloki/Desktop/VM/programmering/opgaver/arrays/bin/Debug/net5.0/arrays.runtimeconfig.dev.json
+/home/strawloki/Desktop/VM/programmering/opgaver/arrays/bin/Debug/net5.0/arrays.dll
+/home/strawloki/Desktop/VM/programmering/opgaver/arrays/bin/Debug/net5.0/ref/arrays.dll
+/home/strawloki/Desktop/VM/programmering/opgaver/arrays/bin/Debug/net5.0/arrays.pdb
+/home/strawloki/Desktop/VM/programmering/opgaver/arrays/obj/Debug/net5.0/arrays.csproj.AssemblyReference.cache
+/home/strawloki/Desktop/VM/programmering/opgaver/arrays/obj/Debug/net5.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/strawloki/Desktop/VM/programmering/opgaver/arrays/obj/Debug/net5.0/arrays.AssemblyInfoInputs.cache
+/home/strawloki/Desktop/VM/programmering/opgaver/arrays/obj/Debug/net5.0/arrays.AssemblyInfo.cs
+/home/strawloki/Desktop/VM/programmering/opgaver/arrays/obj/Debug/net5.0/arrays.csproj.CoreCompileInputs.cache
+/home/strawloki/Desktop/VM/programmering/opgaver/arrays/obj/Debug/net5.0/arrays.dll
+/home/strawloki/Desktop/VM/programmering/opgaver/arrays/obj/Debug/net5.0/ref/arrays.dll
+/home/strawloki/Desktop/VM/programmering/opgaver/arrays/obj/Debug/net5.0/arrays.pdb
+/home/strawloki/Desktop/VM/programmering/opgaver/arrays/obj/Debug/net5.0/arrays.genruntimeconfig.cache
